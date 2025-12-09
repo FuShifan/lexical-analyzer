@@ -1,0 +1,50 @@
+# Qt / qmake
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+
+# Qt Creator / build dirs
+build/
+debug/
+Release/
+Debug/
+Desktop_Qt_*/    # Qt Creator 自动生成的构建目录
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Generated makefiles / build artifacts
+Makefile.Debug
+Makefile.Release
+Makefile
+compile_commands.json
+
+# Object / binary files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# Qt moc/Ui/rcc generated files
+moc_*.cpp
+moc_*.c
+qrc_*.cpp
+ui_*.h
+ui_*.hpp
+ui_*.cpp
+
+# logs, temp
+*.log
+*.tmp
+*.cache
+*.bak
+
+# language-specific
+*.user

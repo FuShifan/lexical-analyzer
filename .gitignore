@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Qt / qmake
 *.pro.user
 *.pro.user.*
@@ -48,3 +49,46 @@ ui_*.cpp
 
 # language-specific
 *.user
+=======
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Linker files
+*.ilk
+
+# Debugger Files
+*.pdb
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# debug information files
+*.dwo
+>>>>>>> 0b582d1705a52f4f1d957b7daa51bfdbe1eebec7
